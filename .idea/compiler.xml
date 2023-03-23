@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="BankiSzolgaltatasok" />
         <module name="Java_BankiSzolgaltatasok-master" />
+        <module name="VagoRebeka_BankiSzolgaltatasok" />
       </profile>
     </annotationProcessing>
   </component>
