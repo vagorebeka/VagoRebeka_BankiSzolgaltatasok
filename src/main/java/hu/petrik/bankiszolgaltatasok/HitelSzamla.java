@@ -1,6 +1,6 @@
 package hu.petrik.bankiszolgaltatasok;
 
-public abstract class HitelSzamla extends Szamla {
+public class HitelSzamla extends Szamla {
     protected int hitelKeret;
 
     public HitelSzamla(Tulajdonos tulajdonos, int hitelKeret) {
