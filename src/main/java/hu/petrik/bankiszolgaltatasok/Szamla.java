@@ -1,7 +1,6 @@
 package hu.petrik.bankiszolgaltatasok;
 
 public abstract class Szamla extends BankiSzolgaltatas {
-
     private Tulajdonos tulajdonos;
     protected int aktualisEgyenleg;
 
